@@ -1,0 +1,15 @@
+
+body{
+    font-family: 'Commissioner', sans-serif;
+    color: #0074D9;
+}
+h1, h2{
+    text-align: center;
+}
+.videoWrapper{
+    margin: 0 auto;
+    display: block;
+}
+.videoWrapper{
+    width: 696px;
+}
